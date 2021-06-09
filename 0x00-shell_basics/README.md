@@ -1,0 +1,1 @@
+The script is showing the commands tknow the current working directory
