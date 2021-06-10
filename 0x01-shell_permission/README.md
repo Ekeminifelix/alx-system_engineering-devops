@@ -1,1 +1,1 @@
-This project explans each file permission in shell.
+This project explains each file permission in shell.
