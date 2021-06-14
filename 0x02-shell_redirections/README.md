@@ -1,0 +1,1 @@
+This file is for shell redirection project as an ALX software engineer student.
