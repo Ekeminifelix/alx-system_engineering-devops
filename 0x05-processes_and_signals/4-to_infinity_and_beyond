@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Displays To infinity and beyond indefinitely.
+NAME="To infinity and beyond"
+while true; do
+    echo "$NAME"
+    sleep 2
+done
+
+© 2022 GitHub, Inc. 
